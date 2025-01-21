@@ -57,6 +57,6 @@ python main.py
 ```
 deactivate
 ```
-to deactivate the virtual environment
+&nbsp;&nbsp;&nbsp; to deactivate the virtual environment
 
 
